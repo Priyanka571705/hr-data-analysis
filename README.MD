@@ -28,7 +28,7 @@ Developer quickstart
 1. Clone the repository and open the project folder:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Priyanka571705/hr-data-analysis
 cd Data-Science-project/HR_DATA_MNC
 ```
 
